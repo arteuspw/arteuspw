@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arteus</h1>
-<h3 align="center">A weird guy from Turkey that tries to learn everything a bit.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arteuspw&label=Profile%20views&color=0e75b6&style=flat" alt="arteuspw" /> </p>
 
