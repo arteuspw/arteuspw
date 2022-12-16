@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arteuspw&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Discord Presence](https://lanyard.cnrad.dev/api/869163375236620288)](https://discord.com/users/869163375236620288)
 <h1 align="center">Hi 👋, I'm Arteus</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arteuspw&label=Profile%20views&color=0e75b6&style=flat" alt="arteuspw" /> </p>
