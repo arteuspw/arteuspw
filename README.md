@@ -1,4 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/869163375236620288)](https://discord.com/users/869163375236620288)
 # 💫 About Me:
 🌱 I’m currently learning JS, C#<br>📫 How to reach me hi@arteus.pw
 
@@ -22,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=arteuspw&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/869163375236620288)](https://discord.com/users/869163375236620288)
